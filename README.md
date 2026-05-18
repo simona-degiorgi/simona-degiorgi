@@ -11,10 +11,10 @@ I'm a Project Manager turned Data Analyst with a passion for using data to drive
 ---    
 
 💼 Experience Highlights
- - **Blue Book Trainee** | European Commission – DG REGIO
- - **Project Manager** | Coop. Il Mosaico
- - **Project Manager** | Associazione Papa Giovanni XXIII
- - **Administrative Assistant** | Consulate General of Italy
+ - **Blue Book Trainee** | European Commission – DG REGIO (10.25-02.26)
+ - **Project Manager** | Coop. Il Mosaico (04.25-09-25)
+ - **Project Manager** | Associazione Papa Giovanni XXIII (2022-2024)
+ - **Administrative Assistant** | Consulate General of Italy (2021-2022)
 
 🎓 Education
  - MA in Data Analysis for Business Intelligence and Data Science — University of Turin (110/110)
