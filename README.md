@@ -34,7 +34,7 @@ I'm a Project Manager turned Data Analyst with a passion for using data to drive
 
 ## 🗂️ Projects
 
-- 🗺️ [Cycling Network Analysis - Zanica (BG)](https://github.com/simonadegiorgi94-cyber/qgis-zanica-ciclabile) — GIS analysis of cycling infrastructure in a Lombard municipality
+- 🗺️ [Cycling Network Analysis - Zanica (BG)](https://github.com/simonadegiorgi94-cyber/qgis-zanica-cycling-network) — GIS analysis of cycling infrastructure in a Lombard municipality
 
 ---
 
