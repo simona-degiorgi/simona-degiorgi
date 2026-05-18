@@ -26,9 +26,9 @@ I'm a Project Manager turned Data Analyst with a passion for using data to drive
 🌱 Currently Learning
  - 📊 Advanced Power BI dashboards
  - 🌎 QGIS
- - 🐍 Python for data analysis (pandas, matplotlib)
+ - 🐍 Python for data analysis
  - 🗃️ SQL for data querying
- - 🐙 GitHub — yes, starting from right here!
+ - 😺 GitHub — yes, starting from right here!
 
 ---    
 
