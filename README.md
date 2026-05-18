@@ -32,5 +32,11 @@ I'm a Project Manager turned Data Analyst with a passion for using data to drive
 
 ---    
 
+## 🗂️ Projects
+
+*Coming soon... stay tuned! 🦝*
+
+---
+
  📫 Get in Touch
      simona.degiorgi94@gmail.com
