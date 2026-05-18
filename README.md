@@ -17,8 +17,8 @@ I'm a Project Manager turned Data Analyst with a passion for using data to drive
  - **Administrative Assistant** | Consulate General of Italy (2021-2022)
 
 🎓 Education
- - MA in Data Analysis for Business Intelligence and Data Science — University of Turin (110/110)
- - MA in International Cooperation on Human Rights — University of Bologna (110/110 cum Laude)
+ - MA in Data Analysis for Business Intelligence and Data Science — University of Turin 
+ - MA in International Cooperation on Human Rights — University of Bologna 
  - BA in Foreign Languages and Literature — University of Milan
 
 ---    
