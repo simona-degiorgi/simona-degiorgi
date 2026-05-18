@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 🦝
 
-<!--
-**simonadegiorgi94-cyber/simonadegiorgi94-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+I'm a Project Manager turned Data Analyst with a passion for using data to drive meaningful change in the social sector.
+After years working in international cooperation, EU-funded projects, and public administration, I'm now building bridges between social impact and data analysis.
 
-Here are some ideas to get you started:
+🌍 Background in international cooperation & human rights
+📊 Learning data analysis to make social projects more transparent and impactful
+🏛️ Experience with EU institutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---    
+
+💼 Experience Highlights
+ - *Blue Book Trainee* | European Commission – DG REGIO
+ - *Project Manager* | Coop. Il Mosaico
+ - *Project Manager* | Associazione Papa Giovanni XXIII
+ - *Administrative Assistant* | Consulate General of Italy
+
+🎓 Education
+ - MA in Data Analysis for Business Intelligence and Data Science — University of Turin (110/110)
+ - MA in International Cooperation on Human Rights — University of Bologna (110/110 cum Laude)
+ - BA in Foreign Languages and Literature — University of Milan
+
+---    
+
+🌱 Currently Learning
+ - 📊 Advanced Power BI dashboards
+ - 🌎 QGIS
+ - 🐍 Python for data analysis (pandas, matplotlib)
+ - 🗃️ SQL for data querying
+ - 🐙 GitHub — yes, starting from right here!
+
+---    
+
+ 📫 Get in Touch
+     simona.degiorgi94@gmail.com
