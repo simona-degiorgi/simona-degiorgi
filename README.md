@@ -4,9 +4,9 @@
 
 I'm a Project Manager turned Data Analyst with a passion for using data to drive meaningful change. After years working in international cooperation, EU-funded projects, and public administration, I'm now bringing data thinking into the social sector.
 
-- 🌍 Background in international cooperation & human rights
-- 📊 Learning data analysis to make social projects more transparent and impactful
-- 🏛️ Experience with EU institutions
+- Background in international cooperation & human rights
+- Learning data analysis to make social projects more transparent and impactful
+- Experience with EU institutions
 
 ---    
 
