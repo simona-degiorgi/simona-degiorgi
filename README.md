@@ -42,3 +42,5 @@ I'm a Project Manager turned Data Analyst with a passion for using data to drive
 
  📫 Get in Touch
      simona.degiorgi94@gmail.com
+     
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_Degiorgi_Github.pdf)
