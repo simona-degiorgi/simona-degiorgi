@@ -34,8 +34,9 @@ I'm a Project Manager turned Data Analyst with a passion for using data to drive
 
 ## 🗂️ Projects
 
-- 🗺️ [My First QGIS Map](https://github.com/simonadegiorgi94-cyber/qgis-first-map) — First map created during a 7-day QGIS course
+- 📊 [EU Cohesion Policy — Cross-Period Monitoring Dashboard](https://github.com/simonadegiorgi94-cyber/eu-cohesion-policy-dashboard) — Power BI dashboard developed during a traineeship at the European Commission, DG REGIO
 - 🗺️ [Cycling Network Analysis - Zanica (BG)](https://github.com/simonadegiorgi94-cyber/qgis-zanica-cycling-network) — GIS analysis of cycling infrastructure in a Lombard municipality
+- 🗺️ [My First QGIS Map](https://github.com/simonadegiorgi94-cyber/qgis-first-map) — First map created during a 7-day QGIS course
 
 ---
 
