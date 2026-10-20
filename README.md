@@ -40,9 +40,3 @@ Currently Learning
 - [QGIS Hiking Map — Trail 301 (Orobie Alps)](https://github.com/simona-degiorgi/qgis-hiking-map) — Topographic map built in QGIS from OpenStreetMap, a TINITALY DTM and a GPX track, with styled contour lines and an elevation profile.
 - [Northern Nigeria Language Mapping](https://github.com/simona-degiorgi/northern-nigeria-language-mapping) — Four thematic maps of language use across 131 Local Government Areas (LGAs) in six northern Nigerian states, built from open humanitarian survey data.
 
----
-
- 📫 Get in Touch
-     simona.degiorgi94@gmail.com
-     
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_Degiorgi_Github.pdf)
